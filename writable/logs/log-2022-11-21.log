@@ -1,0 +1,919 @@
+CRITICAL - 2022-11-21 08:58:17 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 09:59:21 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 09:59:22 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 09:59:23 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 10:00:47 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 10:00:48 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 10:00:48 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 10:00:49 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 10:01:32 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 10:01:34 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 10:02:56 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 10:02:57 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 10:02:58 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 10:03:14 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 10:03:15 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 10:04:40 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 10:04:41 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 10:04:42 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 10:04:42 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 09:05:55 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 09:05:55 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 09:07:02 --> Invalid file: libros/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('libros/index.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/index', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('libros/index')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 09:07:16 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 09:08:06 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 09:08:06 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 09:08:07 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 09:09:24 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 09:09:26 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 09:13:19 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 09:13:22 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 09:13:24 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 09:13:25 --> Undefined variable $cabecera
+in APPPATH\Views\libros\crear.php on line 1.
+ 1 APPPATH\Views\libros\crear.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\crear.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\crear.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/crear', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 09:15:10 --> Undefined variable $cabecera
+in APPPATH\Views\libros\listar.php on line 1.
+ 1 APPPATH\Views\libros\listar.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\listar.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\listar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/listar', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/listar')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 09:15:11 --> Undefined variable $cabecera
+in APPPATH\Views\libros\listar.php on line 1.
+ 1 APPPATH\Views\libros\listar.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\listar.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\listar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/listar', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/listar')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 09:15:12 --> Undefined variable $cabecera
+in APPPATH\Views\libros\listar.php on line 1.
+ 1 APPPATH\Views\libros\listar.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabecera', 'APPPATH\\Views\\libros\\listar.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\libros\\listar.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('libros/listar', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('libros/listar')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 09:47:24 --> Undefined variable $libro
+in APPPATH\Views\productos\index.php on line 24.
+ 1 APPPATH\Views\productos\index.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libro', 'APPPATH\\Views\\productos\\index.php', 24)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\productos\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('productos/index', [], true)
+ 5 APPPATH\Controllers\Productos.php(18): view('productos/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Productos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Productos))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 10:00:30 --> Class "App\Controllers\Libro" not found
+in APPPATH\Controllers\Productos.php on line 31.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Productos->store()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Productos))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 12:20:18 --> Class "App\Controllers\Libro" not found
+in APPPATH\Controllers\Productos.php on line 74.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Productos->edit('4')
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Productos))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 12:56:40 --> syntax error, unexpected token ";", expecting identifier or variable or "{" or "$"
+in APPPATH\Controllers\Ventas.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Ventas.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Ventas')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Ventas')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Ventas', true)
+ 5 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 12:58:33 --> Undefined property: App\Controllers\Ventas::$db
+in APPPATH\Controllers\Ventas.php on line 15.
+ 1 APPPATH\Controllers\Ventas.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ventas::$db', 'APPPATH\\Controllers\\Ventas.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 12:58:34 --> Undefined property: App\Controllers\Ventas::$db
+in APPPATH\Controllers\Ventas.php on line 15.
+ 1 APPPATH\Controllers\Ventas.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ventas::$db', 'APPPATH\\Controllers\\Ventas.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 12:58:34 --> Undefined property: App\Controllers\Ventas::$db
+in APPPATH\Controllers\Ventas.php on line 15.
+ 1 APPPATH\Controllers\Ventas.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ventas::$db', 'APPPATH\\Controllers\\Ventas.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 13:09:44 --> Undefined property: App\Controllers\Ventas::$db
+in APPPATH\Controllers\Ventas.php on line 17.
+ 1 APPPATH\Controllers\Ventas.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ventas::$db', 'APPPATH\\Controllers\\Ventas.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 13:09:45 --> Undefined property: App\Controllers\Ventas::$db
+in APPPATH\Controllers\Ventas.php on line 17.
+ 1 APPPATH\Controllers\Ventas.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ventas::$db', 'APPPATH\\Controllers\\Ventas.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 13:10:13 --> Undefined property: App\Controllers\Ventas::$db
+in APPPATH\Controllers\Ventas.php on line 17.
+ 1 APPPATH\Controllers\Ventas.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ventas::$db', 'APPPATH\\Controllers\\Ventas.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 13:10:14 --> Undefined property: App\Controllers\Ventas::$db
+in APPPATH\Controllers\Ventas.php on line 17.
+ 1 APPPATH\Controllers\Ventas.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ventas::$db', 'APPPATH\\Controllers\\Ventas.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 13:10:26 --> Undefined property: App\Controllers\Ventas::$db
+in APPPATH\Controllers\Ventas.php on line 17.
+ 1 APPPATH\Controllers\Ventas.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ventas::$db', 'APPPATH\\Controllers\\Ventas.php', 17)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-21 13:38:59 --> mysqli_sql_exception: Unknown column 'p.nombre' in 'field list' in C:\xampp\htdocs\cafeteria\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\cafeteria\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `v`.`idP...', 0)
+#1 C:\xampp\htdocs\cafeteria\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `v`.`idP...')
+#2 C:\xampp\htdocs\cafeteria\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `v`.`idP...')
+#3 C:\xampp\htdocs\cafeteria\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `v`.`idP...', Array, false)
+#4 C:\xampp\htdocs\cafeteria\app\Controllers\Ventas.php(17): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(927): App\Controllers\Ventas->index()
+#6 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+#7 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cafeteria\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-11-21 13:38:59 --> Call to a member function getResultArray() on bool
+in APPPATH\Controllers\Ventas.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-21 13:39:00 --> mysqli_sql_exception: Unknown column 'p.nombre' in 'field list' in C:\xampp\htdocs\cafeteria\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\cafeteria\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `v`.`idP...', 0)
+#1 C:\xampp\htdocs\cafeteria\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `v`.`idP...')
+#2 C:\xampp\htdocs\cafeteria\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `v`.`idP...')
+#3 C:\xampp\htdocs\cafeteria\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `v`.`idP...', Array, false)
+#4 C:\xampp\htdocs\cafeteria\app\Controllers\Ventas.php(17): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(927): App\Controllers\Ventas->index()
+#6 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+#7 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cafeteria\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-11-21 13:39:00 --> Call to a member function getResultArray() on bool
+in APPPATH\Controllers\Ventas.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 13:39:09 --> Undefined array key "nombre"
+in APPPATH\Views\ventas\index.php on line 15.
+ 1 APPPATH\Views\ventas\index.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nombre"', 'APPPATH\\Views\\ventas\\index.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ventas\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('ventas/index', [], true)
+ 5 APPPATH\Controllers\Ventas.php(26): view('ventas/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-21 13:40:05 --> mysqli_sql_exception: Not unique table/alias: 'p' in C:\xampp\htdocs\cafeteria\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\cafeteria\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `v`.`idP...', 0)
+#1 C:\xampp\htdocs\cafeteria\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `v`.`idP...')
+#2 C:\xampp\htdocs\cafeteria\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `v`.`idP...')
+#3 C:\xampp\htdocs\cafeteria\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `v`.`idP...', Array, false)
+#4 C:\xampp\htdocs\cafeteria\app\Controllers\Ventas.php(18): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(927): App\Controllers\Ventas->index()
+#6 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+#7 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cafeteria\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-11-21 13:40:05 --> Call to a member function getResultArray() on bool
+in APPPATH\Controllers\Ventas.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-21 13:40:17 --> mysqli_sql_exception: Not unique table/alias: 'p' in C:\xampp\htdocs\cafeteria\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\cafeteria\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `v`.`idP...', 0)
+#1 C:\xampp\htdocs\cafeteria\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `v`.`idP...')
+#2 C:\xampp\htdocs\cafeteria\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `v`.`idP...')
+#3 C:\xampp\htdocs\cafeteria\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `v`.`idP...', Array, false)
+#4 C:\xampp\htdocs\cafeteria\app\Controllers\Ventas.php(18): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(927): App\Controllers\Ventas->index()
+#6 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+#7 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cafeteria\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-11-21 13:40:17 --> Call to a member function getResultArray() on bool
+in APPPATH\Controllers\Ventas.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-21 13:40:17 --> mysqli_sql_exception: Not unique table/alias: 'p' in C:\xampp\htdocs\cafeteria\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\cafeteria\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `v`.`idP...', 0)
+#1 C:\xampp\htdocs\cafeteria\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `v`.`idP...')
+#2 C:\xampp\htdocs\cafeteria\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `v`.`idP...')
+#3 C:\xampp\htdocs\cafeteria\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `v`.`idP...', Array, false)
+#4 C:\xampp\htdocs\cafeteria\app\Controllers\Ventas.php(18): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(927): App\Controllers\Ventas->index()
+#6 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+#7 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cafeteria\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-11-21 13:40:17 --> Call to a member function getResultArray() on bool
+in APPPATH\Controllers\Ventas.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-21 13:40:18 --> mysqli_sql_exception: Not unique table/alias: 'p' in C:\xampp\htdocs\cafeteria\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\cafeteria\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `v`.`idP...', 0)
+#1 C:\xampp\htdocs\cafeteria\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `v`.`idP...')
+#2 C:\xampp\htdocs\cafeteria\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `v`.`idP...')
+#3 C:\xampp\htdocs\cafeteria\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `v`.`idP...', Array, false)
+#4 C:\xampp\htdocs\cafeteria\app\Controllers\Ventas.php(18): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(927): App\Controllers\Ventas->index()
+#6 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+#7 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cafeteria\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-11-21 13:40:18 --> Call to a member function getResultArray() on bool
+in APPPATH\Controllers\Ventas.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 13:48:14 --> Undefined variable $venta
+in APPPATH\Controllers\Ventas.php on line 20.
+ 1 APPPATH\Controllers\Ventas.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $venta', 'APPPATH\\Controllers\\Ventas.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 13:48:16 --> Undefined variable $venta
+in APPPATH\Controllers\Ventas.php on line 20.
+ 1 APPPATH\Controllers\Ventas.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $venta', 'APPPATH\\Controllers\\Ventas.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 13:48:33 --> Trying to access array offset on value of type null
+in APPPATH\Views\ventas\index.php on line 15.
+ 1 APPPATH\Views\ventas\index.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\ventas\\index.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ventas\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('ventas/index', [], true)
+ 5 APPPATH\Controllers\Ventas.php(27): view('ventas/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 13:48:33 --> Trying to access array offset on value of type null
+in APPPATH\Views\ventas\index.php on line 15.
+ 1 APPPATH\Views\ventas\index.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\ventas\\index.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ventas\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('ventas/index', [], true)
+ 5 APPPATH\Controllers\Ventas.php(27): view('ventas/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 13:51:58 --> Trying to access array offset on value of type null
+in APPPATH\Views\ventas\index.php on line 15.
+ 1 APPPATH\Views\ventas\index.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\ventas\\index.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ventas\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('ventas/index', [], true)
+ 5 APPPATH\Controllers\Ventas.php(27): view('ventas/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 13:51:59 --> Trying to access array offset on value of type null
+in APPPATH\Views\ventas\index.php on line 15.
+ 1 APPPATH\Views\ventas\index.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\ventas\\index.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ventas\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('ventas/index', [], true)
+ 5 APPPATH\Controllers\Ventas.php(27): view('ventas/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 13:51:59 --> Trying to access array offset on value of type null
+in APPPATH\Views\ventas\index.php on line 15.
+ 1 APPPATH\Views\ventas\index.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\ventas\\index.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ventas\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('ventas/index', [], true)
+ 5 APPPATH\Controllers\Ventas.php(27): view('ventas/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 13:52:00 --> Trying to access array offset on value of type null
+in APPPATH\Views\ventas\index.php on line 15.
+ 1 APPPATH\Views\ventas\index.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\ventas\\index.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ventas\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('ventas/index', [], true)
+ 5 APPPATH\Controllers\Ventas.php(27): view('ventas/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 13:52:00 --> Trying to access array offset on value of type null
+in APPPATH\Views\ventas\index.php on line 15.
+ 1 APPPATH\Views\ventas\index.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH\\Views\\ventas\\index.php', 15)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ventas\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('ventas/index', [], true)
+ 5 APPPATH\Controllers\Ventas.php(27): view('ventas/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 13:54:45 --> Undefined property: App\Controllers\Ventas::$db
+in APPPATH\Controllers\Ventas.php on line 14.
+ 1 APPPATH\Controllers\Ventas.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ventas::$db', 'APPPATH\\Controllers\\Ventas.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 13:54:46 --> Undefined property: App\Controllers\Ventas::$db
+in APPPATH\Controllers\Ventas.php on line 14.
+ 1 APPPATH\Controllers\Ventas.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ventas::$db', 'APPPATH\\Controllers\\Ventas.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 13:59:01 --> Undefined property: App\Controllers\Ventas::$db
+in APPPATH\Controllers\Ventas.php on line 14.
+ 1 APPPATH\Controllers\Ventas.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ventas::$db', 'APPPATH\\Controllers\\Ventas.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 14:08:04 --> Undefined property: App\Controllers\Ventas::$db
+in APPPATH\Controllers\Ventas.php on line 14.
+ 1 APPPATH\Controllers\Ventas.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ventas::$db', 'APPPATH\\Controllers\\Ventas.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 14:10:07 --> Undefined variable $datos
+in APPPATH\Views\ventas\index.php on line 13.
+ 1 APPPATH\Views\ventas\index.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'APPPATH\\Views\\ventas\\index.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ventas\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('ventas/index', [], true)
+ 5 APPPATH\Controllers\Ventas.php(26): view('ventas/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 14:10:08 --> Undefined variable $datos
+in APPPATH\Views\ventas\index.php on line 13.
+ 1 APPPATH\Views\ventas\index.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'APPPATH\\Views\\ventas\\index.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ventas\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('ventas/index', [], true)
+ 5 APPPATH\Controllers\Ventas.php(26): view('ventas/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 14:10:38 --> Undefined variable $datos
+in APPPATH\Views\ventas\index.php on line 13.
+ 1 APPPATH\Views\ventas\index.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'APPPATH\\Views\\ventas\\index.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ventas\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('ventas/index', [], true)
+ 5 APPPATH\Controllers\Ventas.php(26): view('ventas/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 14:10:38 --> Undefined variable $datos
+in APPPATH\Views\ventas\index.php on line 13.
+ 1 APPPATH\Views\ventas\index.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'APPPATH\\Views\\ventas\\index.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ventas\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('ventas/index', [], true)
+ 5 APPPATH\Controllers\Ventas.php(26): view('ventas/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 14:13:44 --> Undefined variable $datos
+in APPPATH\Views\ventas\index.php on line 13.
+ 1 APPPATH\Views\ventas\index.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'APPPATH\\Views\\ventas\\index.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ventas\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('ventas/index', [], true)
+ 5 APPPATH\Controllers\Ventas.php(26): view('ventas/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-21 14:18:06 --> mysqli_sql_exception: Unknown column 'p.nombre' in 'field list' in C:\xampp\htdocs\cafeteria\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\cafeteria\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `v`.`idP...', 0)
+#1 C:\xampp\htdocs\cafeteria\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `v`.`idP...')
+#2 C:\xampp\htdocs\cafeteria\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `v`.`idP...')
+#3 C:\xampp\htdocs\cafeteria\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `v`.`idP...', Array, false)
+#4 C:\xampp\htdocs\cafeteria\app\Controllers\Ventas.php(17): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(927): App\Controllers\Ventas->index()
+#6 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+#7 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cafeteria\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-11-21 14:18:06 --> Call to a member function getResultArray() on bool
+in APPPATH\Controllers\Ventas.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-11-21 14:18:07 --> mysqli_sql_exception: Unknown column 'p.nombre' in 'field list' in C:\xampp\htdocs\cafeteria\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\xampp\htdocs\cafeteria\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `v`.`idP...', 0)
+#1 C:\xampp\htdocs\cafeteria\system\Database\BaseConnection.php(666): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `v`.`idP...')
+#2 C:\xampp\htdocs\cafeteria\system\Database\BaseConnection.php(593): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `v`.`idP...')
+#3 C:\xampp\htdocs\cafeteria\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `v`.`idP...', Array, false)
+#4 C:\xampp\htdocs\cafeteria\app\Controllers\Ventas.php(17): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(927): App\Controllers\Ventas->index()
+#6 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+#7 C:\xampp\htdocs\cafeteria\system\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\cafeteria\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-11-21 14:18:07 --> Call to a member function getResultArray() on bool
+in APPPATH\Controllers\Ventas.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 14:23:57 --> Undefined variable $ventas
+in APPPATH\Views\ventas\index.php on line 13.
+ 1 APPPATH\Views\ventas\index.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ventas', 'APPPATH\\Views\\ventas\\index.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ventas\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('ventas/index', [], true)
+ 5 APPPATH\Controllers\Ventas.php(25): view('ventas/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 14:27:39 --> Undefined array key "id"
+in APPPATH\Views\ventas\index.php on line 6.
+ 1 APPPATH\Views\ventas\index.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'APPPATH\\Views\\ventas\\index.php', 6)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ventas\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('ventas/index', [], true)
+ 5 APPPATH\Controllers\Ventas.php(28): view('ventas/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 14:27:40 --> Undefined array key "id"
+in APPPATH\Views\ventas\index.php on line 6.
+ 1 APPPATH\Views\ventas\index.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'APPPATH\\Views\\ventas\\index.php', 6)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ventas\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('ventas/index', [], true)
+ 5 APPPATH\Controllers\Ventas.php(28): view('ventas/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 14:28:03 --> Call to a member function getResultArray() on bool
+in APPPATH\Views\ventas\index.php on line 8.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('ventas/index', [], true)
+ 4 APPPATH\Controllers\Ventas.php(28): view('ventas/index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 14:28:04 --> Call to a member function getResultArray() on bool
+in APPPATH\Views\ventas\index.php on line 8.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('ventas/index', [], true)
+ 4 APPPATH\Controllers\Ventas.php(28): view('ventas/index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 16:00:05 --> Unsupported operand types: string - string
+in APPPATH\Controllers\Ventas.php on line 58.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->store()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 16:11:50 --> Undefined property: App\Controllers\Ventas::$db
+in APPPATH\Controllers\Ventas.php on line 14.
+ 1 APPPATH\Controllers\Ventas.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ventas::$db', 'APPPATH\\Controllers\\Ventas.php', 14)
+ 2 APPPATH\Controllers\Ventas.php(30): App\Controllers\Ventas->VentaProducto()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 16:11:52 --> Undefined property: App\Controllers\Ventas::$db
+in APPPATH\Controllers\Ventas.php on line 14.
+ 1 APPPATH\Controllers\Ventas.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Ventas::$db', 'APPPATH\\Controllers\\Ventas.php', 14)
+ 2 APPPATH\Controllers\Ventas.php(30): App\Controllers\Ventas->VentaProducto()
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 16:12:02 --> Undefined array key "nombre"
+in APPPATH\Views\ventas\index.php on line 17.
+ 1 APPPATH\Views\ventas\index.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nombre"', 'APPPATH\\Views\\ventas\\index.php', 17)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ventas\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('ventas/index', [], true)
+ 5 APPPATH\Controllers\Ventas.php(27): view('ventas/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 16:12:03 --> Undefined array key "nombre"
+in APPPATH\Views\ventas\index.php on line 17.
+ 1 APPPATH\Views\ventas\index.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nombre"', 'APPPATH\\Views\\ventas\\index.php', 17)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\ventas\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('ventas/index', [], true)
+ 5 APPPATH\Controllers\Ventas.php(27): view('ventas/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->index()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 16:12:26 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1598.
+ 1 SYSTEMPATH\BaseModel.php(1598): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(853): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(693): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Controllers\Ventas.php(59): CodeIgniter\Model->update('stock')
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->store()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 16:13:03 --> Unsupported operand types: string - string
+in APPPATH\Controllers\Ventas.php on line 58.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->store()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-21 16:21:11 --> Unsupported operand types: string - string
+in APPPATH\Controllers\Ventas.php on line 58.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Ventas->store()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ventas))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
